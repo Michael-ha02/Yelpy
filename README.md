@@ -38,14 +38,12 @@ This is an assignment from CodePath. The idea is to make a simple copy version o
 * Home Screen
 * Chat
 
-### Picture
-<img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Wireframes.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
 <p float="left">
-  <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Welcome%20Screen.png" width=200>
-  <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Register%20Screen.png" width=200> 
+  <img src="https://github.com/Michael-ha02/Yelpy/blob/main/Picture/Screen%201.png" width=200>
+  <img src="https://github.com/Michael-ha02/Yelpy/blob/main/Picture/Screen%202.png" width=200> 
   <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Login%20Screen.png" width=200>
   <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Home%20Screen.png" width=200>
 </p>
@@ -53,15 +51,5 @@ This is an assignment from CodePath. The idea is to make a simple copy version o
 <p float="left">
   <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Item%20Detail%20Screen.png" width=200>
   <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Search%20Screen.png" width=200>
-  <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Search%20Result%20Screen.png" width=200>
-  <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/New%20Post%20Screen.png" width=200>
-</p>
-
-<p float="left">
-  <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Chats%20Screen.png" width=200>
-
-  <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Individual%20Chat%20Screen.png" width=200>
-
-  <img src="https://github.com/CodePath-ios-group9-project/CodePath-ios-project/blob/main/Wireframes/Profile%20Screen.png" width=200>
 </p>
 
