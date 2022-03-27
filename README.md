@@ -46,4 +46,5 @@ This is an assignment from CodePath. The idea is to make a simple copy version o
   <img src="https://github.com/Michael-ha02/Yelpy/blob/main/Picture/Screen%202.png" width=200> 
 </p>
 
+<img src='http://g.recordit.co/VcOb7G6Q7y.gif' title='Yelpy' width='' alt='Yelpy' />
 
